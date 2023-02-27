@@ -1,0 +1,8 @@
+.ToolBar{
+    position: absolute;
+    width: 4em;
+    height: 50vh;
+    border: 1px gray solid;
+    top: 1em;
+    left: 1em;
+}
